@@ -25,7 +25,9 @@ import {MatSlideToggleModule} from '@angular/material/slide-toggle';
     AppRoutingModule,
     BrowserAnimationsModule,
     FormsModule,
-    
+    MatBadgeModule, MatButtonModule, MatCheckboxModule, MatCheckboxModule,
+    MatFormFieldModule, MatIconModule, MatInputModule, MatSlideToggleModule,
+    MatToolbarModule
   ],
   providers: [],
   bootstrap: [AppComponent]
