@@ -1,5 +1,5 @@
 .spacer{
-    flex: 1 1 auto
+    flex: 1 1 auto;
 
 }
 .tableContainer{
@@ -7,5 +7,18 @@
 }
 
 .fullWidth{
-    width: 100%
+    width: 100%;
 }
+
+.inputContainer{
+    margin: 15px 15px 15px;
+}
+
+.addButton{
+    margin: 5px;
+}
+
+.toggleContainer {
+     margin: 15px;
+     display: flex;
+    }
